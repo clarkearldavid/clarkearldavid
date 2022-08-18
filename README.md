@@ -1,6 +1,6 @@
 ### Zup! 👋
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on my personal space in social media
 - 🌱 I’m currently widening my knowledge on Swift / iOS
